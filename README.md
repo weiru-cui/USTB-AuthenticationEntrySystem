@@ -1,2 +1,2 @@
-## AuthenticationEntrySystem base on PHP
+## AuthenticationEntrySystem based on PHP
 ## a course work in USTB
